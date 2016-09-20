@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"ERB Autocomplete",
+		"ERB Snippets",
+		"Git",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"JSON Reindent",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Monokai - Spacegray",
+		"Package Control",
+		"RSpec",
+		"Sass",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"Sublime Tutor",
+		"Terraform",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes",
+		"TrailingSpaces"
+	]
+}

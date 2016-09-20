@@ -1,0 +1,10 @@
+[
+  { "keys": ["super+h"], "command": "show_panel", "args": {"panel": "replace"} },
+  {"keys": ["super+shift+r"], "command": "reindent" , "args": {"single_line": false}},
+  { "keys": ["super+shift+."], "command": "erb", "context":
+  [
+  { "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee" }
+  ]
+  },
+  { "keys": ["alt+d"], "command": "goto_definition" }
+]
