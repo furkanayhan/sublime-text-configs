@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Babel",
+		"Babel Snippets",
 		"BracketHighlighter",
 		"Dockerfile Syntax Highlighting",
 		"Emmet",
@@ -19,6 +20,7 @@
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Monokai - Spacegray",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"RSpec",
 		"Sass",
