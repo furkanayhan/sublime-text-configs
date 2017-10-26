@@ -7,9 +7,8 @@
 	[
 		"AlignTab",
 		"Babel",
-		"Babel Snippets",
 		"BracketHighlighter",
-		"Dockerfile Syntax Highlighting",
+		"Case Conversion",
 		"Emmet",
 		"ERB Autocomplete",
 		"ERB Snippets",
@@ -18,19 +17,15 @@
 		"HTML-CSS-JS Prettify",
 		"Indent XML",
 		"JSON Reindent",
+		"JsPrettier",
+		"Markdown Preview",
 		"Material Theme",
 		"Material Theme - Appbar",
-		"Monokai - Spacegray",
-		"Oceanic Next Color Scheme",
 		"Package Control",
 		"RSpec",
 		"Sass",
 		"SideBarEnhancements",
 		"SqlBeautifier",
-		"Sublime Tutor",
-		"Terraform",
-		"Theme - Spacegray",
-		"Tomorrow Color Schemes",
 		"TrailingSpaces"
 	]
 }
