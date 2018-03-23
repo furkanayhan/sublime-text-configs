@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[console.log(${1:}$SELECTION);${0}]]></content>
+  <tabTrigger>cl console.log</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
