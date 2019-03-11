@@ -1,6 +1,7 @@
 {
   "auto_format_on_save": true,
   "auto_format_on_save_excludes": ["*.json", "*.css", "*.scss", "/Users/furkan/parasut/client/*"],
+  "node_path": "/Users/furkan/.nvm/versions/node/v6.11.5/bin/node",
   "prettier_options": {
     "printWidth": 100,
     "singleQuote": true,

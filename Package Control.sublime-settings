@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AlignTab",
+		"All Autocomplete",
 		"Babel",
 		"BracketHighlighter",
 		"Case Conversion",
@@ -19,11 +20,12 @@
 		"Indent XML",
 		"JSON Reindent",
 		"JsPrettier",
-		"Markdown Preview",
+		"MarkdownPreview",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Package Control",
 		"RSpec",
+		"RuboCop",
 		"Sass",
 		"SideBarEnhancements",
 		"SqlBeautifier",

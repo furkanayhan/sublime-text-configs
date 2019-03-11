@@ -7,5 +7,6 @@
   ]
   },
   { "keys": ["alt+d"], "command": "goto_definition" },
-  { "keys": ["alt+g"], "command": "jump_back" }
+  { "keys": ["alt+g"], "command": "jump_back" },
+  { "keys": ["super+<"], "command": "reveal_in_side_bar" }
 ]

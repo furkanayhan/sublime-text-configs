@@ -35,7 +35,7 @@
 		"dist"
 	],
 	"font-face": "Monaco",
-	"font_size": 14.0,
+	"font_size": 15.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
