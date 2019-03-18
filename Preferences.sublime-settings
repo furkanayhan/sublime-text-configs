@@ -66,6 +66,7 @@
 	],
 	"shift_tab_unindent": true,
 	"show_encoding": true,
+	"show_git_status": false,
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
