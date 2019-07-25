@@ -19,7 +19,8 @@
 		"*.map",
 		"*.xslt",
 		"*.dump",
-		"*.log"
+		"*.log",
+		".byebug_history"
 	],
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
@@ -59,6 +60,7 @@
 	"material_theme_tabs_autowidth": true,
 	"material_theme_tabs_separator": true,
 	"material_theme_tree_headings": true,
+	"mini_diff": false,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
