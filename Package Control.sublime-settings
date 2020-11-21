@@ -2,9 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"A File Icon"
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AlignTab",
 		"All Autocomplete",
 		"Babel",
@@ -13,13 +15,12 @@
 		"Emmet",
 		"ERB Autocomplete",
 		"ERB Snippets",
-		"Ethereum",
 		"Git",
-		"Handlebars",
+		"GitLink",
+		"GraphQL",
 		"HTML-CSS-JS Prettify",
 		"Indent XML",
 		"JSON Reindent",
-		"JsPrettier",
 		"MarkdownPreview",
 		"Material Theme",
 		"Material Theme - Appbar",
@@ -29,6 +30,11 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SqlBeautifier",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Vue Syntax Highlight"
+	],
+	"repositories":
+	[
+		"https://github.com/math2001/FoldFunctions"
 	]
 }

@@ -20,7 +20,8 @@
 		"*.xslt",
 		"*.dump",
 		"*.log",
-		".byebug_history"
+		".byebug_history",
+		".tar.gz"
 	],
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
@@ -33,7 +34,8 @@
 		"tmp",
 		"bower_components",
 		"node_modules",
-		"dist"
+		"dist",
+		".backups"
 	],
 	"font-face": "Monaco",
 	"font_size": 15.0,
@@ -41,7 +43,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"A File Icon",
+		"Vintage",
+		"zzz A File Icon zzz"
 	],
 	"indent_guide_options":
 	[
