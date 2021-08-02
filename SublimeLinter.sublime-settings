@@ -1,6 +1,10 @@
 // SublimeLinter Settings - User
 {
-  "rubocop": {
-    "args": ["--auto-correct"]
+  "linters": {
+    "rubocop": {
+      "args": ["--config", ".rubocop.yml"],
+      "use_bundle_exec": true,
+      "lint_mode": "background"
+    }
   }
 }

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Rails.logger.info '********** START **********'
+Rails.logger.info ${1}
+Rails.logger.info '********** END **********'
+]]></content>
+  <tabTrigger>lgg</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

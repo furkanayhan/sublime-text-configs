@@ -2,14 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"A File Icon"
 	],
 	"installed_packages":
 	[
 		"A File Icon",
 		"AlignTab",
 		"All Autocomplete",
-		"Babel",
 		"BracketHighlighter",
 		"Case Conversion",
 		"Emmet",
@@ -26,15 +24,16 @@
 		"Material Theme - Appbar",
 		"Package Control",
 		"RSpec",
-		"RuboCop",
 		"Sass",
 		"SideBarEnhancements",
 		"SqlBeautifier",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
 		"TrailingSpaces",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
 	],
 	"repositories":
 	[
 		"https://github.com/math2001/FoldFunctions"
-	]
+	],
 }

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+ActiveRecord::Base.logger = Logger.new(STDOUT)
+]]></content>
+  <tabTrigger>tdblgg</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
