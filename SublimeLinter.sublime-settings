@@ -3,8 +3,18 @@
   "linters": {
     "rubocop": {
       "args": ["--config", ".rubocop.yml"],
-      "use_bundle_exec": true,
-      "lint_mode": "background"
+      // "use_bundle_exec": true,
+      "lint_mode": "background",
+      "executable": "rubocop"
+    },
+    "vale": {
+      "selector": "text.html.markdown"
     }
-  }
+  },
+
+  "paths": {
+    "osx": [
+      "~/.rvm/gems"
+    ]
+  },
 }
